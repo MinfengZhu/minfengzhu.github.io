@@ -59,11 +59,11 @@ education:
     institution: Zhejiang University
     date_start: 2015-09-01
     date_end: 2020-12-30
-  - course: Joint PhD Program
+  - area: Joint PhD Program
     institution: University of Technology Sydney
     date_start: 2018-04-30
     date_end: 2019-11-30
-  - course: BSc in Mathematics
+  - area: BSc in Mathematics
     institution: Zhejiang University
     date_start: 2011-09-01
     date_end: 2015-06-30
