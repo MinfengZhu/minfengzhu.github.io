@@ -201,4 +201,4 @@ education:
 
 I am a tenure-track Assistant Professor in the School of Software at Zhejiang University. I received Ph.D. Degree in Computer Science from the State Key Laboratory of CAD&CG, Zhejiang University under the supervision of Prof. [Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/). My research interests include explainable artificial intelligence, visualization and AI alignment. Here is the homepage of [Visual Analytics and Intelligence Group](https://zjuvag.org) of ZJU. 
 
-I am actively recruiting Master's students to join VAI. Research in this area involves high coding, a math background, and hard work. Visiting scholars and interns are also very welcome! If you are interested, please submit your [application](https://zjuvailab.feishu.cn/share/base/form/shrcnJEMgFGgu6uCYHCknJAumVh). 
+I am actively recruiting Master's students to join VAI. Research in this area involves high coding, a math background, and hard work. Visiting scholars and interns are also very welcome! If you are interested, please submit your [application](https://zjuvailab.feishu.cn/share/base/form/shrcnJEMgFGgu6uCYHCknJAumVh).
