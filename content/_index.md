@@ -65,7 +65,6 @@ sections:
         # featured_only: true
     design:
       view:  citation #article-grid # citation
-      columns: 3
   # - block: collection
   #   id: talks
   #   content:
