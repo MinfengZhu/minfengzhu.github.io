@@ -6,7 +6,7 @@ authors:
     - Zhaosong Huang
     - Ye Zhao
     - Wei Chen 
-    Shengjie Gao 
+    - Shengjie Gao 
     - Kejie Yu 
     - Weixia Xu
     - Mingjie Tang
