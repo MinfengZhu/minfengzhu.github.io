@@ -38,29 +38,27 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-links:
-- name: Preview
-  url: preview.mp4
+# links:
+# - name: Preview
+#   url: preview.mp4
   
 url_pdf: https://ieeexplore.ieee.org/document/10296051
-url_code: 
- - https://github.com/MeU1024/qc-vis
+url_code: https://github.com/MeU1024/qc-vis
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source: 
 url_video:
-url_supp:
- - https://osf.io/2m9yh/?view_only=0aa1618c97244f5093cd7ce15f1431f9
+url_supp: https://osf.io/2m9yh/?view_only=0aa1618c97244f5093cd7ce15f1431f9
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "featured"
-  focal_point: "Center"
-  preview_only: false
+# image:
+#   caption: "featured"
+#   focal_point: "Center"
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

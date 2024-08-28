@@ -26,7 +26,6 @@ tags:
   [
      "prompt engineering", "text-to-image generation", "image visualization"
   ]
-categories: []
 featured: true
 
 # Custom links (optional).
@@ -42,8 +41,7 @@ links:
   url: preview.mp4
   
 url_pdf: https://ieeexplore.ieee.org/document/10296017
-url_code: 
- - https://github.com/YingchaojieFeng/PromptMagician
+url_code: https://github.com/YingchaojieFeng/PromptMagician
 url_dataset:
 url_poster:
 url_project:
