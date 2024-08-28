@@ -12,7 +12,7 @@ doi: ""
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Computational Social Systems"
-publication_short: "TCSS"
+publication_short: "IEEE TCSS"
 
 abstract: "Modeling human mobility is a critical task in fields such as urban planning, ecology, and epidemiology. Given the current use of mobile phones, there is an abundance of data that can be used to create models of high reliability. Existing techniques can reveal the macro-patterns of crowd movement or analyze the trajectory of a person; however, they typically focus on geographical characteristics. This paper presents a graph-based approach for structuring crowd mobility transition over multiple granularities in the context of social behavior. The key to our approach is an adaptive data representation, the adaptive mobility transition graph, that is globally generated from citywide human mobility data by defining the temporal trends of human mobility and the interleaved transitions between different mobility patterns. We describe the design, creation and manipulation of the adaptive mobility transition graph and introduce a visual analysis system that supports the multi-faceted exploration of citywide human mobility patterns."
 
