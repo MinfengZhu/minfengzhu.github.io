@@ -1,24 +1,16 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Structuring Mobility Transition With an Adaptive Graph Representation"
 authors:
-  [
-    Tianlong Gu,
-    Minfeng Zhu,
-    Wei Chen,
-    Zhaosong Huang,
-    Ross Maciejewski,
-    and Liang Chang.,
-  ]
+    - Tianlong Gu
+    - admin
+    - Wei Chen
+    - Zhaosong Huang
+    - Ross Maciejewski
+    - Liang Chang
 date: 2018-08-02T15:46:02+08:00
 doi: ""
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Computational Social Systems"
@@ -30,7 +22,6 @@ abstract: "Modeling human mobility is a critical task in fields such as urban pl
 summary: ""
 
 tags: ["Timeline", "Mobility", "Mobility Transition", "Mobility Patterns"]
-categories: []
 featured: false
 
 # Custom links (optional).
