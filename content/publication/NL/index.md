@@ -3,25 +3,19 @@
 
 title: "A Natural-language-based Visual Query Approach of Uncertain Human Trajectories"
 authors:
-  [
-    Zhaosong Huang, 
-    Ye Zhao, 
-    Wei Chen, 
-    Shengjie Gao, 
-    Kejie Yu, 
-    Weixia Xu, 
-    Mingjie Tang, 
-    Minfeng Zhu, 
-    Mingliang Xu
-  ]
+    - Zhaosong Huang
+    - Ye Zhao
+    - Wei Chen 
+    Shengjie Gao 
+    - Kejie Yu 
+    - Weixia Xu
+    - Mingjie Tang
+    - admin
+    - Mingliang Xu
 date: 2020-11-02T15:46:02+08:00
 doi: ""
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Visualization and Computer Graphics"
@@ -39,7 +33,6 @@ tags:
     "Spatio-temporal",
     "Natural Language"
   ]
-categories: []
 featured: false
 
 # Custom links (optional).

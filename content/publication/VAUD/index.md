@@ -3,22 +3,14 @@
 
 title: "VAUD: A visual analysis approach for exploring spatio-temporal urban data"
 authors:
-  [
-    Wei Chen,
-    Zhaosong Huang,
-    Feiran Wu,
-    Minfeng Zhu,
-    Huihua Guan,
-    Ross Maciejewski
-  ]
+    - Wei Chen
+    - Zhaosong Huang
+    - Feiran Wu
+    - admin
+    - Huihua Guan
+    - Ross Maciejewski
 date: 2018-11-02T15:46:02+08:00
 doi: ""
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Visualization and Computer Graphics"
@@ -37,7 +29,6 @@ tags:
     "Heterogeneous",
     "Spatio-temporal",
   ]
-categories: []
 featured: false
 
 # Custom links (optional).
@@ -60,10 +51,10 @@ url_video: https://zhaosongh.github.io/publication/VAUD.mp4
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "featured"
-  focal_point: "Top"
-  preview_only: false
+# image:
+#   caption: "featured"
+#   focal_point: "Top"
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

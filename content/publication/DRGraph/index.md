@@ -12,11 +12,7 @@ authors:
 date: 2021-02-02T15:46:02+08:00
 doi: ""
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["article-journal"]
+
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Visualization and Computer Graphics"
@@ -32,8 +28,7 @@ tags:
     "Graph Layout",
     "Dimensionality Reduction",
   ]
-categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
