@@ -24,7 +24,7 @@ tags:
   [
     "Low-light Image Enhancement",
   ]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

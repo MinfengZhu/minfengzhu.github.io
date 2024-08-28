@@ -7,7 +7,7 @@ authors:
   - Kam Kwai Wong
   - Sijia Wang
   - Yuhong Lu
-  - Minfeng Zhu
+  - admin
   - Baicheng Wang
   - Wei Chen
 date: 2023-10-22
