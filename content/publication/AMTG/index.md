@@ -10,8 +10,6 @@ authors:
 date: 2018-08-02T15:46:02+08:00
 doi: ""
 
-publication_types: ["article-journal"]
-
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Computational Social Systems"
 publication_short: "IEEE TCSS"
@@ -24,13 +22,6 @@ summary: ""
 tags: ["Timeline", "Mobility", "Mobility Transition", "Mobility Patterns"]
 featured: false
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
 
 url_pdf: http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/AMTG.pdf
 url_code:
@@ -44,10 +35,10 @@ url_video: http://www.cad.zju.edu.cn/home/vagblog/VAG_Work/AMTG.mp4
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  caption: "featured"
-#  focal_point: "Top"
-#  preview_only: fase
+image:
+  caption: "featured"
+  focal_point: ""
+  preview_only: fase
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -3,12 +3,10 @@
 
 title: "DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis"
 authors:
-  [
-    Minfeng Zhu,
-    Pingbo Pan,
-    Wei Chen,
-    and Yi Yang.,
-  ]
+    - admin
+    - Pingbo Pan
+    - Wei Chen
+    - Yi Yang
 date: 2019-04-02T15:46:02+08:00
 doi: ""
 
@@ -16,7 +14,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
@@ -32,8 +30,7 @@ tags:
     "Generative Adversarial Networks",
     "Text-to-Image Synthesis",
   ]
-categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -44,7 +41,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://arxiv.org/abs/1904.01310
-url_code:
+url_code: https://github.com/MinfengZhu/DM-GAN
 url_dataset:
 url_poster:
 url_project:
