@@ -3,7 +3,7 @@ const axios = require('axios');
 const path = require('path');
 
 // 👉 在这里替换为你自己的 Notion 页面地址（必须公开）
-const NOTION_PAGE_URL = 'https://minfengzhu.notion.site';
+const NOTION_PAGE_URL = 'https://minfengzhu.notion.site/homepage?pvs=74';
 
 // 用于生成 GitHub Pages 的静态 HTML 页面
 async function fetchNotionPage() {
