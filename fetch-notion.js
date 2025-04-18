@@ -2,18 +2,33 @@ const fs = require('fs');
 const axios = require('axios');
 const path = require('path');
 
-const NOTION_URL = 'https://www.notion.so/minfengzhu/Minfeng-Zhu-1b2cdcbe6cc380849b03d3b5038c2c5d?pvs=4';
+// 👉 在这里替换为你自己的 Notion 页面地址（必须公开）
+const NOTION_PAGE_URL = 'https://minfengzhu.notion.site';
 
+// 用于生成 GitHub Pages 的静态 HTML 页面
 async function fetchNotionPage() {
   try {
-    const response = await axios.get(NOTION_URL);
+    const response = await axios.get(NOTION_PAGE_URL);
     const html = response.data;
 
-    // 输出到 index.html
-    fs.writeFileSync(path.join(__dirname, 'index.html'), html);
-    console.log('✅ Notion 页面抓取完成');
+    const wrappedHTML = `
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>My Notion Page</title>
+      </head>
+      <body>
+        ${html}
+      </body>
+      </html>
+    `;
+
+    fs.writeFileSync(path.join(__dirname, 'index.html'), wrappedHTML);
+    console.log('✅ Notion 页面抓取完成！');
   } catch (err) {
-    console.error('❌ 抓取失败：', err.message);
+    console.error('❌ 抓取失败:', err.message);
   }
 }
 
